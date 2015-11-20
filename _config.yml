@@ -2,6 +2,7 @@ name: mamilliery
 favicon: null
 layout_spectrum: 0.87989
 typography_spectrum: 0.28842
+title: mamilliery - designer
 cta:
   domain: null
   bucket: null
@@ -21,7 +22,7 @@ color:
     - '#ea4846'
     - '#ff0000'
     - '#fa8d88'
-  brandStrength: 0.125
+  brandStrength: 0.625
   lightness: 0.4375
   saturation: 0.6875
   rhythmicContrast: 0.5
