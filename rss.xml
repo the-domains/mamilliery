@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mamilliery]]></title>
-        <description><![CDATA[mamilliery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[mamilliery - designer]]></title>
+        <description><![CDATA[mamilliery - designer]]></description>
+        <link>https://thegrid.ai/mamilliery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 07:18:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 Nov 2015 07:26:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mamilliery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Popoli del libro un cazzo!]]></title>
+            <description><![CDATA[<article><h1>Popoli del libro un cazzo!</h1><p>C'era una volta una religione orribile, fatta di violenza e perdizione</p></article>]]></description>
+            <link>https://thegrid.ai/mamilliery/popoli-del-libro-un-cazzo/index.html</link>
+            <guid isPermaLink="false">ab75c5dc-bf18-4c45-9476-85a77f82d5c8</guid>
+            <pubDate>Fri, 20 Nov 2015 07:26:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/mamilliery/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">07d5603b-3043-4021-b99c-1de76eb15c5c</guid>
             <pubDate>Fri, 20 Nov 2015 07:18:38 GMT</pubDate>
         </item>
