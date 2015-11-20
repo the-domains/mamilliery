@@ -1,0 +1,28 @@
+name: mamilliery
+favicon: null
+layout_spectrum: 0.9711215768475085
+typography_spectrum: 0.3535787428263575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9512125391047448
+  lightness: 0.4608193766325712
+  saturation: 0.5196838851552457
+  rhythmicContrast: 0.6021731204818934
+purpose: []
